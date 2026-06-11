@@ -75,6 +75,4 @@ kalman-state-estimator/
 
 ---
 
-## Resume Blurb
 
-> *Implemented a Kalman Filter-based state estimator in Python using NumPy to track dynamic system states from noisy sensor readings; validated against synthetic time-series data and benchmarked estimation error using probabilistic metrics (RMSE, MAE, Log-Likelihood), achieving ~75% reduction in position error vs raw sensor baseline.*
